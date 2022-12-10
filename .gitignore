@@ -1,0 +1,11 @@
+.build
+.mbed
+projectfiles
+
+BUILD
+mbed-os
+
+CONTRIBUTING.md
+LICENSE
+bug_report.md
+*.yml
